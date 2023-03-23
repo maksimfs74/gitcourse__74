@@ -70,3 +70,5 @@ const addFlashcard = () => {
    question.value = "";
    answer.value = "";
  }
+
+ console.log('second commit');
