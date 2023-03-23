@@ -72,3 +72,4 @@ const addFlashcard = () => {
  }
 
  console.log('second commit');
+ console.log('sosi jopy');
